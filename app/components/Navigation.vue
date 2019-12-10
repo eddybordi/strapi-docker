@@ -1,6 +1,77 @@
 <template>
 	<nav class="flex items-center justify-center flex-wrap bg-teal-500">
-		<div class="flex items-center justify-between flex-wrap py-4 px-3 w-full max-1280">
+		<div class="nav-mob flex items-center justify-around py-2 px-3 w-full max-1280">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="43" height="43" viewBox="0 0 473.9 473.9" style="enable-background:new 0 0 473.9 473.9;" xml:space="preserve">
+<style type="text/css">
+	.st0bored{fill:#3E3E56;}
+	.st1bored{fill:#E6ECF0;}
+</style>
+<circle class="st0bored" cx="237" cy="237" r="237"/>
+<g>
+	<path class="st1bored" d="M307.7,306.7H166.2c-2.6,0-4.8-2.1-4.8-4.8v-13.8c0-2.6,2.1-4.7,4.7-4.7h141.5c2.6,0,4.8,2.1,4.8,4.8v13.8
+		C312.4,304.6,310.3,306.7,307.7,306.7z"/>
+</g>
+<path class="st1bored" d="M171.7,215.5h-60.5c-2.6,0-4.8-2.1-4.8-4.8v-14.3c0-2.6,2.1-4.7,4.7-4.7h60.5c2.6,0,4.8,2.1,4.8,4.8v14.3
+	C176.5,213.4,174.3,215.5,171.7,215.5z"/>
+<path class="st1bored" d="M361.4,215.4h-60.7c-2.6,0-4.8-2.1-4.8-4.8v-14.2c0-2.6,2.1-4.7,4.7-4.7h60.7c2.6,0,4.8,2.1,4.8,4.8v14.1
+	C366.2,213.3,364.1,215.4,361.4,215.4z"/>
+</svg>
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="33" height="33" viewBox="0 0 432.4 432.4" style="enable-background:new 0 0 432.4 432.4; margin-bottom: 0.2rem;" xml:space="preserve">
+<style type="text/css">
+	.st0idea{fill:#E6ECF0;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0idea" d="M216.5,93.2c-61.2,0-111.2,50-111.2,111.2c0,32,14,62.8,37.6,83.6c17.6,17.6,16,55.2,15.6,55.6
+				c0,2,0.4,3.6,2,5.2c1.2,1.2,3.2,2,4.8,2h102c2,0,3.6-0.8,4.8-2c1.2-1.2,2-3.2,2-5.2c0-0.4-2-38,15.6-55.6
+				c0.4-0.4,0.8-0.8,1.2-1.2c23.2-21.2,36.8-51.2,36.8-82.4C327.7,143.2,277.7,93.2,216.5,93.2z M280.5,277.6
+				c-0.4,0.4-1.2,1.2-1.2,1.6c-15.6,16.8-18.4,44.4-18.8,57.6h-88.4c-0.4-13.2-3.2-42-20-59.2c-21.2-18.4-33.6-45.2-33.6-73.6
+				c0-54,43.6-97.6,97.6-97.6s97.6,43.6,97.6,97.6C313.7,232.4,301.7,259.2,280.5,277.6z"/>
+			<path class="st0idea" d="M216.1,121.6c-3.6,0-6.8,3.2-6.8,6.8c0,3.6,3.2,6.8,6.8,6.8c40.4,0,72.8,32.8,72.8,72.8
+				c0,3.6,3.2,6.8,6.8,6.8c3.6,0,6.8-3.2,6.8-6.8C302.9,160.4,264.1,121.6,216.1,121.6z"/>
+			<path class="st0idea" d="M260.5,358.4h-88.8c-9.2,0-16.8,7.6-16.8,16.8s7.6,16.8,16.8,16.8h88.4c9.6-0.4,17.2-7.6,17.2-16.8
+				S269.7,358.4,260.5,358.4z M260.5,378h-88.8c-1.6,0-3.2-1.2-3.2-3.2s1.2-3.2,3.2-3.2h88.4c1.6,0,3.2,1.2,3.2,3.2
+				S262.1,378,260.5,378z"/>
+			<path class="st0idea" d="M247.3,398.8h-62.4c-9.2,0-16.8,7.6-16.8,16.8s7.6,16.8,16.8,16.8h62.4c9.2,0,16.8-7.6,16.8-16.8
+				C264.1,406,256.5,398.8,247.3,398.8z M247.3,418.4h-62.4c-1.6,0-3.2-1.2-3.2-3.2s1.2-3.2,3.2-3.2h62.4c1.6,0,3.2,1.2,3.2,3.2
+				S248.9,418.4,247.3,418.4z"/>
+			<path class="st0idea" d="M216.1,60c4,0,6.8-3.2,6.8-6.8V6.8c0-3.6-3.2-6.8-6.8-6.8s-6.8,3.2-6.8,6.8v46.4
+				C209.3,56.8,212.5,60,216.1,60z"/>
+			<path class="st0idea" d="M329.3,34.4c-3.2-2.4-7.2-1.2-9.2,1.6l-25.6,38.4c-2.4,3.2-1.6,7.6,1.6,9.6c1.2,0.8,2.4,1.2,3.6,1.2
+				c2.4,0,4.4-1.2,5.6-3.2l25.6-38.4C333.3,40.8,332.5,36.4,329.3,34.4z"/>
+			<path class="st0idea" d="M134.9,83.6c1.2,0,2.4-0.4,3.6-1.2c3.2-2,4-6.4,2-9.6L115.7,34c-2-3.2-6.4-4-9.6-2s-4,6.4-2,9.6l24.8,38.8
+				C130.5,82.8,132.5,83.6,134.9,83.6z"/>
+			<path class="st0idea" d="M86.5,126l-40.4-22c-3.2-1.6-7.6-0.4-9.2,2.8c-2,3.2-0.8,7.6,2.8,9.2l40.4,22c1.2,0.4,2,0.8,3.2,0.8
+				c2.4,0,4.8-1.2,6-3.6C90.9,132,89.7,127.6,86.5,126z"/>
+			<path class="st0idea" d="M395.7,106.8c-1.6-3.2-6-4.4-9.2-2.8l-40.8,22c-3.2,1.6-4.4,6-2.8,9.2c1.2,2.4,3.6,3.6,6,3.6
+				c1.2,0,2.4-0.4,3.2-0.8l40.8-22C396.1,114.4,397.3,110,395.7,106.8z"/>
+		</g>
+	</g>
+</g>
+</svg>
+
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="30" height="30" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0discuss{fill:#E6ECF0;}
+</style>
+<path class="st0discuss" d="M477,119.5h-66.5v-55c0-19.3-15.7-35-35-35h-239c-19.3,0-35,15.7-35,35v134H35c-19.3,0-35,15.7-35,35v159
+	c0,19.3,15.7,35,35,35h38v29.9c0,9.5,5.3,18.1,13.8,22.4c3.6,1.8,7.4,2.6,11.2,2.6c5.3,0,10.6-1.7,15-5.1l66.2-49.9H274
+	c19.3,0,35-15.7,35-35v-44h23.7l66.2,49.9c4.4,3.3,9.7,5.1,15,5.1c3.8,0,7.6-0.9,11.2-2.6c8.5-4.3,13.8-12.8,13.8-22.4v-29.9h38
+	c19.3,0,35-15.7,35-35v-159C512,135.2,496.3,119.5,477,119.5z M482,313.5c0,2.8-2.2,5-5,5h-53c-8.3,0-15,6.7-15,15v34.9l-62.2-46.9
+	c-2.6-2-5.8-3-9-3H238c-2.8,0-5-2.2-5-5v-159c0-2.8,2.2-5,5-5h239c2.8,0,5,2.2,5,5V313.5z M274,397.5h-99.7c-3.3,0-6.4,1.1-9,3
+	L103,447.4v-34.9c0-8.3-6.7-15-15-15H35c-2.8,0-5-2.2-5-5v-159c0-2.8,2.2-5,5-5h168v85c0,19.3,15.7,35,35,35h41v44
+	C279,395.3,276.8,397.5,274,397.5z M136.5,59.5h239c2.8,0,5,2.2,5,5v55H238c-19.3,0-35,15.7-35,35v44h-71.5v-134
+	C131.5,61.8,133.7,59.5,136.5,59.5z"/>
+</svg>
+
+<svg style="border-radius: 100%; background: #e6ecef;" width="43" height="43" viewBox="-8 0 280 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><desc>Created with getavataaars.com</desc><defs><circle id="path-1" cx="120" cy="120" r="120"></circle><path d="M12,160 C12,226.27417 65.72583,280 132,280 C198.27417,280 252,226.27417 252,160 L264,160 L264,-1.42108547e-14 L-3.19744231e-14,-1.42108547e-14 L-3.19744231e-14,160 L12,160 Z" id="path-3"></path><path d="M124,144.610951 L124,163 L128,163 L128,163 C167.764502,163 200,195.235498 200,235 L200,244 L0,244 L0,235 C-4.86974701e-15,195.235498 32.235498,163 72,163 L72,163 L76,163 L76,144.610951 C58.7626345,136.422372 46.3722246,119.687011 44.3051388,99.8812385 C38.4803105,99.0577866 34,94.0521096 34,88 L34,74 C34,68.0540074 38.3245733,63.1180731 44,62.1659169 L44,56 L44,56 C44,25.072054 69.072054,5.68137151e-15 100,0 L100,0 L100,0 C130.927946,-5.68137151e-15 156,25.072054 156,56 L156,62.1659169 C161.675427,63.1180731 166,68.0540074 166,74 L166,88 C166,94.0521096 161.51969,99.0577866 155.694861,99.8812385 C153.627775,119.687011 141.237365,136.422372 124,144.610951 Z" id="path-5"></path></defs><g id="Avataaar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-825.000000, -1100.000000)" id="Avataaar/Circle"><g transform="translate(825.000000, 1100.000000)"><g id="Mask"></g><g id="Avataaar" stroke-width="1" fill-rule="evenodd" mask="url(#mask-4)"><g id="Body" transform="translate(32.000000, 36.000000)"><mask id="mask-6" fill="white"><use xlink:href="#path-5"></use></mask><use fill="#D0C6AC" xlink:href="#path-5"></use><g id="Skin/👶🏽-03-Brown" mask="url(#mask-6)" fill="#FFDBB4"><g transform="translate(0.000000, 0.000000)" id="Color"><rect x="0" y="0" width="264" height="280"></rect></g></g><path d="M156,79 L156,102 C156,132.927946 130.927946,158 100,158 C69.072054,158 44,132.927946 44,102 L44,79 L44,94 C44,124.927946 69.072054,150 100,150 C130.927946,150 156,124.927946 156,94 L156,79 Z" id="Neck-Shadow" fill-opacity="0.100000001" fill="#000000" mask="url(#mask-6)"></path></g><g id="Clothing/Hoodie" transform="translate(0.000000, 170.000000)"><defs><path d="M108,13.0708856 C90.0813006,15.075938 76.2798424,20.5518341 76.004203,34.6449676 C50.1464329,45.5680933 32,71.1646257 32,100.999485 L32,100.999485 L32,110 L232,110 L232,100.999485 C232,71.1646257 213.853567,45.5680933 187.995797,34.6449832 C187.720158,20.5518341 173.918699,15.075938 156,13.0708856 L156,32 L156,32 C156,45.254834 145.254834,56 132,56 L132,56 C118.745166,56 108,45.254834 108,32 L108,13.0708856 Z" id="react-path-8"></path></defs><mask id="react-mask-9" fill="white"><use xlink:href="#react-path-8"></use></mask><use id="Hoodie" fill="#B7C1DB" fill-rule="evenodd" xlink:href="#react-path-8"></use><g id="Color/Palette/Gray-01" mask="url(#react-mask-9)" fill-rule="evenodd" fill="#FFFFB1"><rect id="🖍Color" x="0" y="0" width="264" height="110"></rect></g><path d="M102,61.7390531 L102,110 L95,110 L95,58.1502625 C97.2037542,59.4600576 99.5467694,60.6607878 102,61.7390531 Z M169,58.1502625 L169,98.5 C169,100.432997 167.432997,102 165.5,102 C163.567003,102 162,100.432997 162,98.5 L162,61.7390531 C164.453231,60.6607878 166.796246,59.4600576 169,58.1502625 Z" id="Straps" fill="#F4F4F4" fill-rule="evenodd" mask="url(#react-mask-9)"></path><path d="M90.9601329,12.7243537 C75.9093095,15.5711782 65.5,21.2428847 65.5,32.3076923 C65.5,52.0200095 98.5376807,68 132,68 C165.462319,68 198.5,52.0200095 198.5,32.3076923 C198.5,21.2428847 188.09069,15.5711782 173.039867,12.7243537 C182.124921,16.0744598 188,21.7060546 188,31.0769231 C188,51.4689754 160.178795,68 132,68 C103.821205,68 76,51.4689754 76,31.0769231 C76,21.7060546 81.8750795,16.0744598 90.9601329,12.7243537 Z" id="Shadow" fill-opacity="0.16" fill="#000000" fill-rule="evenodd" mask="url(#react-mask-9)"></path></g><g id="Face" transform="translate(76.000000, 82.000000)" fill="#000000"><g id="Mouth/Disbelief" transform="translate(2.000000, 52.000000)" fill-opacity="0.699999988" fill="#000000"><path d="M40,15 C40,22.7319865 46.2680135,29 54,29 L54,29 C61.7319865,29 68,22.7319865 68,15" id="Mouth" transform="translate(54.000000, 22.000000) scale(1, -1) translate(-54.000000, -22.000000) "></path></g><g id="Nose/Default" transform="translate(28.000000, 40.000000)" fill-opacity="0.16"><path d="M16,8 C16,12.418278 21.372583,16 28,16 L28,16 C34.627417,16 40,12.418278 40,8" id="Nose"></path></g><g id="Eyes/X-Dizzy-😵" transform="translate(0.000000, 8.000000)" fill-opacity="0.599999964" fill-rule="nonzero"><path d="M29,25.2 L34.5,30.7 C35,31.1 35.7,31.1 36.1,30.7 L37.7,29.1 C38.1,28.6 38.1,27.9 37.7,27.5 L32.2,22 L37.7,16.5 C38.1,16 38.1,15.3 37.7,14.9 L36.1,13.3 C35.6,12.9 34.9,12.9 34.5,13.3 L29,18.8 L23.5,13.3 C23,12.9 22.3,12.9 21.9,13.3 L20.3,14.9 C19.9,15.3 19.9,16 20.3,16.5 L25.8,22 L20.3,27.5 C19.9,28 19.9,28.7 20.3,29.1 L21.9,30.7 C22.4,31.1 23.1,31.1 23.5,30.7 L29,25.2 Z" id="Eye"></path><path d="M83,25.2 L88.5,30.7 C89,31.1 89.7,31.1 90.1,30.7 L91.7,29.1 C92.1,28.6 92.1,27.9 91.7,27.5 L86.2,22 L91.7,16.5 C92.1,16 92.1,15.3 91.7,14.9 L90.1,13.3 C89.6,12.9 88.9,12.9 88.5,13.3 L83,18.8 L77.5,13.3 C77,12.9 76.3,12.9 75.9,13.3 L74.3,14.9 C73.9,15.3 73.9,16 74.3,16.5 L79.8,22 L74.3,27.5 C73.9,28 73.9,28.7 74.3,29.1 L75.9,30.7 C76.4,31.1 77.1,31.1 77.5,30.7 L83,25.2 Z" id="Eye"></path></g><g id="Eyebrow/Natural/Up-Down-Natural" fill-opacity="0.599999964"><path d="M22.7663531,1.57844898 L23.6772984,1.17582144 C28.9190996,-0.905265751 36.8645466,-0.0328729562 41.7227321,2.29911638 C42.2897848,2.57148957 41.9021563,3.4519421 41.3211012,3.40711006 C26.4021788,2.25602197 16.3582869,11.5525942 12.9460869,17.8470939 C12.8449215,18.0337142 12.5391523,18.05489 12.4635344,17.8808353 C10.156283,12.5620676 16.9134476,3.89614725 22.7663531,1.57844898 Z" id="Eye-Browse-Reddit"></path><path d="M86.535177,12.0246305 C92.3421916,12.2928751 101.730304,16.5124899 101.488432,22.3684172 C101.480419,22.5600881 101.1989,22.6442368 101.06135,22.496811 C98.306449,19.5374968 78.7459953,16.5471364 71.8564209,18.1317995 C71.2258949,18.2770375 70.7468448,17.6550104 71.1462176,17.2056651 C74.5683263,13.3574126 81.3327077,11.7792465 86.535177,12.0246305 Z" id="Eyebrow" transform="translate(86.246508, 17.285912) rotate(5.000000) translate(-86.246508, -17.285912) "></path></g></g><g id="Top" stroke-width="1" fill-rule="evenodd"><defs><rect id="react-path-14" x="0" y="0" width="264" height="280"></rect><path d="M156,180.610951 C173.530782,172.282984 186.048193,155.114792 187.791419,134.867187 C193.569129,134.002364 198,129.018625 198,123 L198,110 C198,104.054007 193.675427,99.1180731 188,98.1659169 L188,92 C188,84.0546578 186.345324,76.495786 183.361772,69.6491845 C173.434911,53 89.3126235,53.8033992 80.7098777,69.4854816 C77.6811789,76.3752214 76,83.9912805 76,92 L76,98.1659169 C70.3245733,99.1180731 66,104.054007 66,110 L66,123 C66,129.018625 70.4308707,134.002364 76.2085808,134.867187 C77.9518066,155.114792 90.4692178,172.282984 108,180.610951 L108,199 L104,199 L104,199 C64.235498,199 32,231.235498 32,271 L32,280 L232,280 L232,271 C232,231.235498 199.764502,199 160,199 L156,199 L156,180.610951 Z M0,5.68434189e-14 L264,5.68434189e-14 L264,280 L0,280 L0,5.68434189e-14 Z" id="react-path-13"></path><filter x="-0.8%" y="-2.0%" width="101.5%" height="108.0%" filterUnits="objectBoundingBox" id="react-filter-10"><feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix><feMerge><feMergeNode in="shadowMatrixOuter1"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><mask id="react-mask-11" fill="white"><use xlink:href="#react-path-14"></use></mask><g id="Mask"></g><g id="Top/Accesories/Hat" mask="url(#react-mask-11)"><g transform="translate(-1.000000, 0.000000)"><g id="Hat" stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 0.000000)"><mask id="react-mask-12" fill="white"><use xlink:href="#react-path-13"></use></mask><g id="Mask-Hair"></g><path d="M123.182388,2 L141.817612,2 L141.817612,2 C160.609055,2 176.866947,15.0804442 180.890118,33.4361631 L190,75 L75,75 L84.1098821,33.4361631 L84.1098821,33.4361631 C88.1330533,15.0804442 104.390945,2 123.182388,2 Z" fill="#1F333C" mask="url(#react-mask-12)"></path><ellipse id="Hipster" fill="#1F333C" mask="url(#react-mask-12)" cx="132" cy="87.5" rx="122" ry="57.5"></ellipse><ellipse id="Very" fill="#15232A" mask="url(#react-mask-12)" cx="132" cy="82" rx="62" ry="25"></ellipse></g></g></g></g></g></g></g></g></svg>
+		</div>
+		<div class="flex items-center justify-between py-2 lg:py-4 px-3 w-full max-1280 content-between">
 			<div class="flex items-center flex-shrink-0 text-white mr-6">
 
 <!-- <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -19,7 +90,7 @@
 		C262.5,215.4,283.2,247.9,283.2,287.8z"/>
 </g>
 </svg> -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg class="hidden-svg lg:block" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="43" height="43" viewBox="0 0 473.9 473.9" style="enable-background:new 0 0 473.9 473.9; margin-right: 0.5rem;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#2b9c96;}
@@ -36,18 +107,13 @@
 	C366.2,213.3,364.1,215.4,361.4,215.4z"/>
 </svg>
 
-		    <span class="text-xl tracking-tight" style="font-weight: 500;">Je m'ennuie</span>
+		    <span class="text-xl font-bold lg:font-medium tracking-tight">Je m'ennuie</span>
 		  </div>
-		  <div class="block lg:hidden">
-		    <button class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
-		      <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-		    </button>
-		  </div>
-		  <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+		  <div class="block lg:flex-grow lg:flex lg:items-center lg:w-auto">
 		    <div class="text-lg flex-grow flex items-start items-center">
-		    	<a href="#responsive-header" class="flex items-center mt-4 lg:mt-0 text-teal-200 hover:text-white mr-4">
+		    	<a href="#responsive-header" class="items-center mt-4 lg:mt-0 text-teal-200 hover:text-white mr-4 hidden lg:flex">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="33" height="33" viewBox="0 0 432.4 432.4" style="enable-background:new 0 0 432.4 432.4; margin-right: 0.2rem;" xml:space="preserve">
+	 width="33" height="33" viewBox="0 0 432.4 432.4" style="enable-background:new 0 0 432.4 432.4; margin-right: 0.2rem; margin-bottom: 0.5rem;" xml:space="preserve">
 <style type="text/css">
 	.st0b{fill:#B2F5EA;}
 </style>
@@ -83,7 +149,7 @@
 </svg>
 		        <span class="mt-1">Quoi faire ?</span>
 		      </a>
-		      <a href="#responsive-header" class="flex items-center mt-4 lg:mt-0 text-teal-200 hover:text-white mr-4">
+		      <a href="#responsive-header" class="items-center mt-4 lg:mt-0 text-teal-200 hover:text-white mr-4 hidden lg:flex">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="30" height="30" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512; margin-right: 0.4rem;" xml:space="preserve">
 <style type="text/css">
@@ -103,8 +169,9 @@
 		    </div>
 		    <div class="flex">
 		      <!-- <a href="#" class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a> -->
-		      <svg style="border-radius: 100%; background: #e6ecef; display: block; margin-right: 1rem;" width="43" height="43" viewBox="-8 0 280 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><desc>Created with getavataaars.com</desc><defs><circle id="path-1" cx="120" cy="120" r="120"></circle><path d="M12,160 C12,226.27417 65.72583,280 132,280 C198.27417,280 252,226.27417 252,160 L264,160 L264,-1.42108547e-14 L-3.19744231e-14,-1.42108547e-14 L-3.19744231e-14,160 L12,160 Z" id="path-3"></path><path d="M124,144.610951 L124,163 L128,163 L128,163 C167.764502,163 200,195.235498 200,235 L200,244 L0,244 L0,235 C-4.86974701e-15,195.235498 32.235498,163 72,163 L72,163 L76,163 L76,144.610951 C58.7626345,136.422372 46.3722246,119.687011 44.3051388,99.8812385 C38.4803105,99.0577866 34,94.0521096 34,88 L34,74 C34,68.0540074 38.3245733,63.1180731 44,62.1659169 L44,56 L44,56 C44,25.072054 69.072054,5.68137151e-15 100,0 L100,0 L100,0 C130.927946,-5.68137151e-15 156,25.072054 156,56 L156,62.1659169 C161.675427,63.1180731 166,68.0540074 166,74 L166,88 C166,94.0521096 161.51969,99.0577866 155.694861,99.8812385 C153.627775,119.687011 141.237365,136.422372 124,144.610951 Z" id="path-5"></path></defs><g id="Avataaar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-825.000000, -1100.000000)" id="Avataaar/Circle"><g transform="translate(825.000000, 1100.000000)"><g id="Mask"></g><g id="Avataaar" stroke-width="1" fill-rule="evenodd" mask="url(#mask-4)"><g id="Body" transform="translate(32.000000, 36.000000)"><mask id="mask-6" fill="white"><use xlink:href="#path-5"></use></mask><use fill="#D0C6AC" xlink:href="#path-5"></use><g id="Skin/👶🏽-03-Brown" mask="url(#mask-6)" fill="#FFDBB4"><g transform="translate(0.000000, 0.000000)" id="Color"><rect x="0" y="0" width="264" height="280"></rect></g></g><path d="M156,79 L156,102 C156,132.927946 130.927946,158 100,158 C69.072054,158 44,132.927946 44,102 L44,79 L44,94 C44,124.927946 69.072054,150 100,150 C130.927946,150 156,124.927946 156,94 L156,79 Z" id="Neck-Shadow" fill-opacity="0.100000001" fill="#000000" mask="url(#mask-6)"></path></g><g id="Clothing/Hoodie" transform="translate(0.000000, 170.000000)"><defs><path d="M108,13.0708856 C90.0813006,15.075938 76.2798424,20.5518341 76.004203,34.6449676 C50.1464329,45.5680933 32,71.1646257 32,100.999485 L32,100.999485 L32,110 L232,110 L232,100.999485 C232,71.1646257 213.853567,45.5680933 187.995797,34.6449832 C187.720158,20.5518341 173.918699,15.075938 156,13.0708856 L156,32 L156,32 C156,45.254834 145.254834,56 132,56 L132,56 C118.745166,56 108,45.254834 108,32 L108,13.0708856 Z" id="react-path-8"></path></defs><mask id="react-mask-9" fill="white"><use xlink:href="#react-path-8"></use></mask><use id="Hoodie" fill="#B7C1DB" fill-rule="evenodd" xlink:href="#react-path-8"></use><g id="Color/Palette/Gray-01" mask="url(#react-mask-9)" fill-rule="evenodd" fill="#FFFFB1"><rect id="🖍Color" x="0" y="0" width="264" height="110"></rect></g><path d="M102,61.7390531 L102,110 L95,110 L95,58.1502625 C97.2037542,59.4600576 99.5467694,60.6607878 102,61.7390531 Z M169,58.1502625 L169,98.5 C169,100.432997 167.432997,102 165.5,102 C163.567003,102 162,100.432997 162,98.5 L162,61.7390531 C164.453231,60.6607878 166.796246,59.4600576 169,58.1502625 Z" id="Straps" fill="#F4F4F4" fill-rule="evenodd" mask="url(#react-mask-9)"></path><path d="M90.9601329,12.7243537 C75.9093095,15.5711782 65.5,21.2428847 65.5,32.3076923 C65.5,52.0200095 98.5376807,68 132,68 C165.462319,68 198.5,52.0200095 198.5,32.3076923 C198.5,21.2428847 188.09069,15.5711782 173.039867,12.7243537 C182.124921,16.0744598 188,21.7060546 188,31.0769231 C188,51.4689754 160.178795,68 132,68 C103.821205,68 76,51.4689754 76,31.0769231 C76,21.7060546 81.8750795,16.0744598 90.9601329,12.7243537 Z" id="Shadow" fill-opacity="0.16" fill="#000000" fill-rule="evenodd" mask="url(#react-mask-9)"></path></g><g id="Face" transform="translate(76.000000, 82.000000)" fill="#000000"><g id="Mouth/Disbelief" transform="translate(2.000000, 52.000000)" fill-opacity="0.699999988" fill="#000000"><path d="M40,15 C40,22.7319865 46.2680135,29 54,29 L54,29 C61.7319865,29 68,22.7319865 68,15" id="Mouth" transform="translate(54.000000, 22.000000) scale(1, -1) translate(-54.000000, -22.000000) "></path></g><g id="Nose/Default" transform="translate(28.000000, 40.000000)" fill-opacity="0.16"><path d="M16,8 C16,12.418278 21.372583,16 28,16 L28,16 C34.627417,16 40,12.418278 40,8" id="Nose"></path></g><g id="Eyes/X-Dizzy-😵" transform="translate(0.000000, 8.000000)" fill-opacity="0.599999964" fill-rule="nonzero"><path d="M29,25.2 L34.5,30.7 C35,31.1 35.7,31.1 36.1,30.7 L37.7,29.1 C38.1,28.6 38.1,27.9 37.7,27.5 L32.2,22 L37.7,16.5 C38.1,16 38.1,15.3 37.7,14.9 L36.1,13.3 C35.6,12.9 34.9,12.9 34.5,13.3 L29,18.8 L23.5,13.3 C23,12.9 22.3,12.9 21.9,13.3 L20.3,14.9 C19.9,15.3 19.9,16 20.3,16.5 L25.8,22 L20.3,27.5 C19.9,28 19.9,28.7 20.3,29.1 L21.9,30.7 C22.4,31.1 23.1,31.1 23.5,30.7 L29,25.2 Z" id="Eye"></path><path d="M83,25.2 L88.5,30.7 C89,31.1 89.7,31.1 90.1,30.7 L91.7,29.1 C92.1,28.6 92.1,27.9 91.7,27.5 L86.2,22 L91.7,16.5 C92.1,16 92.1,15.3 91.7,14.9 L90.1,13.3 C89.6,12.9 88.9,12.9 88.5,13.3 L83,18.8 L77.5,13.3 C77,12.9 76.3,12.9 75.9,13.3 L74.3,14.9 C73.9,15.3 73.9,16 74.3,16.5 L79.8,22 L74.3,27.5 C73.9,28 73.9,28.7 74.3,29.1 L75.9,30.7 C76.4,31.1 77.1,31.1 77.5,30.7 L83,25.2 Z" id="Eye"></path></g><g id="Eyebrow/Natural/Up-Down-Natural" fill-opacity="0.599999964"><path d="M22.7663531,1.57844898 L23.6772984,1.17582144 C28.9190996,-0.905265751 36.8645466,-0.0328729562 41.7227321,2.29911638 C42.2897848,2.57148957 41.9021563,3.4519421 41.3211012,3.40711006 C26.4021788,2.25602197 16.3582869,11.5525942 12.9460869,17.8470939 C12.8449215,18.0337142 12.5391523,18.05489 12.4635344,17.8808353 C10.156283,12.5620676 16.9134476,3.89614725 22.7663531,1.57844898 Z" id="Eye-Browse-Reddit"></path><path d="M86.535177,12.0246305 C92.3421916,12.2928751 101.730304,16.5124899 101.488432,22.3684172 C101.480419,22.5600881 101.1989,22.6442368 101.06135,22.496811 C98.306449,19.5374968 78.7459953,16.5471364 71.8564209,18.1317995 C71.2258949,18.2770375 70.7468448,17.6550104 71.1462176,17.2056651 C74.5683263,13.3574126 81.3327077,11.7792465 86.535177,12.0246305 Z" id="Eyebrow" transform="translate(86.246508, 17.285912) rotate(5.000000) translate(-86.246508, -17.285912) "></path></g></g><g id="Top" stroke-width="1" fill-rule="evenodd"><defs><rect id="react-path-14" x="0" y="0" width="264" height="280"></rect><path d="M156,180.610951 C173.530782,172.282984 186.048193,155.114792 187.791419,134.867187 C193.569129,134.002364 198,129.018625 198,123 L198,110 C198,104.054007 193.675427,99.1180731 188,98.1659169 L188,92 C188,84.0546578 186.345324,76.495786 183.361772,69.6491845 C173.434911,53 89.3126235,53.8033992 80.7098777,69.4854816 C77.6811789,76.3752214 76,83.9912805 76,92 L76,98.1659169 C70.3245733,99.1180731 66,104.054007 66,110 L66,123 C66,129.018625 70.4308707,134.002364 76.2085808,134.867187 C77.9518066,155.114792 90.4692178,172.282984 108,180.610951 L108,199 L104,199 L104,199 C64.235498,199 32,231.235498 32,271 L32,280 L232,280 L232,271 C232,231.235498 199.764502,199 160,199 L156,199 L156,180.610951 Z M0,5.68434189e-14 L264,5.68434189e-14 L264,280 L0,280 L0,5.68434189e-14 Z" id="react-path-13"></path><filter x="-0.8%" y="-2.0%" width="101.5%" height="108.0%" filterUnits="objectBoundingBox" id="react-filter-10"><feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix><feMerge><feMergeNode in="shadowMatrixOuter1"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><mask id="react-mask-11" fill="white"><use xlink:href="#react-path-14"></use></mask><g id="Mask"></g><g id="Top/Accesories/Hat" mask="url(#react-mask-11)"><g transform="translate(-1.000000, 0.000000)"><g id="Hat" stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 0.000000)"><mask id="react-mask-12" fill="white"><use xlink:href="#react-path-13"></use></mask><g id="Mask-Hair"></g><path d="M123.182388,2 L141.817612,2 L141.817612,2 C160.609055,2 176.866947,15.0804442 180.890118,33.4361631 L190,75 L75,75 L84.1098821,33.4361631 L84.1098821,33.4361631 C88.1330533,15.0804442 104.390945,2 123.182388,2 Z" fill="#1F333C" mask="url(#react-mask-12)"></path><ellipse id="Hipster" fill="#1F333C" mask="url(#react-mask-12)" cx="132" cy="87.5" rx="122" ry="57.5"></ellipse><ellipse id="Very" fill="#15232A" mask="url(#react-mask-12)" cx="132" cy="82" rx="62" ry="25"></ellipse></g></g></g></g></g></g></g></g></svg>
+		      <svg class="hidden-svg lg:block" style="border-radius: 100%; background: #e6ecef; margin-right: 1rem;" width="43" height="43" viewBox="-8 0 280 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><desc>Created with getavataaars.com</desc><defs><circle id="path-1" cx="120" cy="120" r="120"></circle><path d="M12,160 C12,226.27417 65.72583,280 132,280 C198.27417,280 252,226.27417 252,160 L264,160 L264,-1.42108547e-14 L-3.19744231e-14,-1.42108547e-14 L-3.19744231e-14,160 L12,160 Z" id="path-3"></path><path d="M124,144.610951 L124,163 L128,163 L128,163 C167.764502,163 200,195.235498 200,235 L200,244 L0,244 L0,235 C-4.86974701e-15,195.235498 32.235498,163 72,163 L72,163 L76,163 L76,144.610951 C58.7626345,136.422372 46.3722246,119.687011 44.3051388,99.8812385 C38.4803105,99.0577866 34,94.0521096 34,88 L34,74 C34,68.0540074 38.3245733,63.1180731 44,62.1659169 L44,56 L44,56 C44,25.072054 69.072054,5.68137151e-15 100,0 L100,0 L100,0 C130.927946,-5.68137151e-15 156,25.072054 156,56 L156,62.1659169 C161.675427,63.1180731 166,68.0540074 166,74 L166,88 C166,94.0521096 161.51969,99.0577866 155.694861,99.8812385 C153.627775,119.687011 141.237365,136.422372 124,144.610951 Z" id="path-5"></path></defs><g id="Avataaar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-825.000000, -1100.000000)" id="Avataaar/Circle"><g transform="translate(825.000000, 1100.000000)"><g id="Mask"></g><g id="Avataaar" stroke-width="1" fill-rule="evenodd" mask="url(#mask-4)"><g id="Body" transform="translate(32.000000, 36.000000)"><mask id="mask-6" fill="white"><use xlink:href="#path-5"></use></mask><use fill="#D0C6AC" xlink:href="#path-5"></use><g id="Skin/👶🏽-03-Brown" mask="url(#mask-6)" fill="#FFDBB4"><g transform="translate(0.000000, 0.000000)" id="Color"><rect x="0" y="0" width="264" height="280"></rect></g></g><path d="M156,79 L156,102 C156,132.927946 130.927946,158 100,158 C69.072054,158 44,132.927946 44,102 L44,79 L44,94 C44,124.927946 69.072054,150 100,150 C130.927946,150 156,124.927946 156,94 L156,79 Z" id="Neck-Shadow" fill-opacity="0.100000001" fill="#000000" mask="url(#mask-6)"></path></g><g id="Clothing/Hoodie" transform="translate(0.000000, 170.000000)"><defs><path d="M108,13.0708856 C90.0813006,15.075938 76.2798424,20.5518341 76.004203,34.6449676 C50.1464329,45.5680933 32,71.1646257 32,100.999485 L32,100.999485 L32,110 L232,110 L232,100.999485 C232,71.1646257 213.853567,45.5680933 187.995797,34.6449832 C187.720158,20.5518341 173.918699,15.075938 156,13.0708856 L156,32 L156,32 C156,45.254834 145.254834,56 132,56 L132,56 C118.745166,56 108,45.254834 108,32 L108,13.0708856 Z" id="react-path-8"></path></defs><mask id="react-mask-9" fill="white"><use xlink:href="#react-path-8"></use></mask><use id="Hoodie" fill="#B7C1DB" fill-rule="evenodd" xlink:href="#react-path-8"></use><g id="Color/Palette/Gray-01" mask="url(#react-mask-9)" fill-rule="evenodd" fill="#FFFFB1"><rect id="🖍Color" x="0" y="0" width="264" height="110"></rect></g><path d="M102,61.7390531 L102,110 L95,110 L95,58.1502625 C97.2037542,59.4600576 99.5467694,60.6607878 102,61.7390531 Z M169,58.1502625 L169,98.5 C169,100.432997 167.432997,102 165.5,102 C163.567003,102 162,100.432997 162,98.5 L162,61.7390531 C164.453231,60.6607878 166.796246,59.4600576 169,58.1502625 Z" id="Straps" fill="#F4F4F4" fill-rule="evenodd" mask="url(#react-mask-9)"></path><path d="M90.9601329,12.7243537 C75.9093095,15.5711782 65.5,21.2428847 65.5,32.3076923 C65.5,52.0200095 98.5376807,68 132,68 C165.462319,68 198.5,52.0200095 198.5,32.3076923 C198.5,21.2428847 188.09069,15.5711782 173.039867,12.7243537 C182.124921,16.0744598 188,21.7060546 188,31.0769231 C188,51.4689754 160.178795,68 132,68 C103.821205,68 76,51.4689754 76,31.0769231 C76,21.7060546 81.8750795,16.0744598 90.9601329,12.7243537 Z" id="Shadow" fill-opacity="0.16" fill="#000000" fill-rule="evenodd" mask="url(#react-mask-9)"></path></g><g id="Face" transform="translate(76.000000, 82.000000)" fill="#000000"><g id="Mouth/Disbelief" transform="translate(2.000000, 52.000000)" fill-opacity="0.699999988" fill="#000000"><path d="M40,15 C40,22.7319865 46.2680135,29 54,29 L54,29 C61.7319865,29 68,22.7319865 68,15" id="Mouth" transform="translate(54.000000, 22.000000) scale(1, -1) translate(-54.000000, -22.000000) "></path></g><g id="Nose/Default" transform="translate(28.000000, 40.000000)" fill-opacity="0.16"><path d="M16,8 C16,12.418278 21.372583,16 28,16 L28,16 C34.627417,16 40,12.418278 40,8" id="Nose"></path></g><g id="Eyes/X-Dizzy-😵" transform="translate(0.000000, 8.000000)" fill-opacity="0.599999964" fill-rule="nonzero"><path d="M29,25.2 L34.5,30.7 C35,31.1 35.7,31.1 36.1,30.7 L37.7,29.1 C38.1,28.6 38.1,27.9 37.7,27.5 L32.2,22 L37.7,16.5 C38.1,16 38.1,15.3 37.7,14.9 L36.1,13.3 C35.6,12.9 34.9,12.9 34.5,13.3 L29,18.8 L23.5,13.3 C23,12.9 22.3,12.9 21.9,13.3 L20.3,14.9 C19.9,15.3 19.9,16 20.3,16.5 L25.8,22 L20.3,27.5 C19.9,28 19.9,28.7 20.3,29.1 L21.9,30.7 C22.4,31.1 23.1,31.1 23.5,30.7 L29,25.2 Z" id="Eye"></path><path d="M83,25.2 L88.5,30.7 C89,31.1 89.7,31.1 90.1,30.7 L91.7,29.1 C92.1,28.6 92.1,27.9 91.7,27.5 L86.2,22 L91.7,16.5 C92.1,16 92.1,15.3 91.7,14.9 L90.1,13.3 C89.6,12.9 88.9,12.9 88.5,13.3 L83,18.8 L77.5,13.3 C77,12.9 76.3,12.9 75.9,13.3 L74.3,14.9 C73.9,15.3 73.9,16 74.3,16.5 L79.8,22 L74.3,27.5 C73.9,28 73.9,28.7 74.3,29.1 L75.9,30.7 C76.4,31.1 77.1,31.1 77.5,30.7 L83,25.2 Z" id="Eye"></path></g><g id="Eyebrow/Natural/Up-Down-Natural" fill-opacity="0.599999964"><path d="M22.7663531,1.57844898 L23.6772984,1.17582144 C28.9190996,-0.905265751 36.8645466,-0.0328729562 41.7227321,2.29911638 C42.2897848,2.57148957 41.9021563,3.4519421 41.3211012,3.40711006 C26.4021788,2.25602197 16.3582869,11.5525942 12.9460869,17.8470939 C12.8449215,18.0337142 12.5391523,18.05489 12.4635344,17.8808353 C10.156283,12.5620676 16.9134476,3.89614725 22.7663531,1.57844898 Z" id="Eye-Browse-Reddit"></path><path d="M86.535177,12.0246305 C92.3421916,12.2928751 101.730304,16.5124899 101.488432,22.3684172 C101.480419,22.5600881 101.1989,22.6442368 101.06135,22.496811 C98.306449,19.5374968 78.7459953,16.5471364 71.8564209,18.1317995 C71.2258949,18.2770375 70.7468448,17.6550104 71.1462176,17.2056651 C74.5683263,13.3574126 81.3327077,11.7792465 86.535177,12.0246305 Z" id="Eyebrow" transform="translate(86.246508, 17.285912) rotate(5.000000) translate(-86.246508, -17.285912) "></path></g></g><g id="Top" stroke-width="1" fill-rule="evenodd"><defs><rect id="react-path-14" x="0" y="0" width="264" height="280"></rect><path d="M156,180.610951 C173.530782,172.282984 186.048193,155.114792 187.791419,134.867187 C193.569129,134.002364 198,129.018625 198,123 L198,110 C198,104.054007 193.675427,99.1180731 188,98.1659169 L188,92 C188,84.0546578 186.345324,76.495786 183.361772,69.6491845 C173.434911,53 89.3126235,53.8033992 80.7098777,69.4854816 C77.6811789,76.3752214 76,83.9912805 76,92 L76,98.1659169 C70.3245733,99.1180731 66,104.054007 66,110 L66,123 C66,129.018625 70.4308707,134.002364 76.2085808,134.867187 C77.9518066,155.114792 90.4692178,172.282984 108,180.610951 L108,199 L104,199 L104,199 C64.235498,199 32,231.235498 32,271 L32,280 L232,280 L232,271 C232,231.235498 199.764502,199 160,199 L156,199 L156,180.610951 Z M0,5.68434189e-14 L264,5.68434189e-14 L264,280 L0,280 L0,5.68434189e-14 Z" id="react-path-13"></path><filter x="-0.8%" y="-2.0%" width="101.5%" height="108.0%" filterUnits="objectBoundingBox" id="react-filter-10"><feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset><feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix><feMerge><feMergeNode in="shadowMatrixOuter1"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><mask id="react-mask-11" fill="white"><use xlink:href="#react-path-14"></use></mask><g id="Mask"></g><g id="Top/Accesories/Hat" mask="url(#react-mask-11)"><g transform="translate(-1.000000, 0.000000)"><g id="Hat" stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 0.000000)"><mask id="react-mask-12" fill="white"><use xlink:href="#react-path-13"></use></mask><g id="Mask-Hair"></g><path d="M123.182388,2 L141.817612,2 L141.817612,2 C160.609055,2 176.866947,15.0804442 180.890118,33.4361631 L190,75 L75,75 L84.1098821,33.4361631 L84.1098821,33.4361631 C88.1330533,15.0804442 104.390945,2 123.182388,2 Z" fill="#1F333C" mask="url(#react-mask-12)"></path><ellipse id="Hipster" fill="#1F333C" mask="url(#react-mask-12)" cx="132" cy="87.5" rx="122" ry="57.5"></ellipse><ellipse id="Very" fill="#15232A" mask="url(#react-mask-12)" cx="132" cy="82" rx="62" ry="25"></ellipse></g></g></g></g></g></g></g></g></svg>
 
+<div class="right-nav-ct"><div style="position: fixed; z-index: 9;"><div class="flex">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="43" height="43" viewBox="0 0 300 300" style="enable-background:new 0 0 300 300; margin-right: 1rem;" xml:space="preserve">
 <style type="text/css">
@@ -118,14 +185,14 @@
 </g>
 <g>
 	<g>
-		<path class="st1notif" d="M221.3,202.9l-12-20c-5.5-9.2-8.5-19.8-8.5-30.5v-17.5c0-22.1-14.7-40.8-34.9-46.8V75.5c0-7.7-6.3-14-14-14
-			c-7.7,0-14,6.3-14,14V88c-20.2,6-34.9,24.7-34.9,46.8v17.5c0,10.8-2.9,21.3-8.5,30.5l-12,20c-0.6,1.1-0.7,2.4,0,3.5
-			c0.6,1.1,1.8,1.8,3,1.8h132.7c1.3,0,2.4-0.7,3-1.8C222,205.3,222,203.9,221.3,202.9z"/>
+		<path class="st1notif" d="M214.4,199.8l-11-18.3c-5.1-8.4-7.7-18.1-7.7-27.9v-16c0-20.2-13.5-37.3-31.9-42.8V83.3
+			c0-7-5.7-12.8-12.8-12.8s-12.8,5.7-12.8,12.8v11.5c-18.4,5.5-31.9,22.6-31.9,42.8v16c0,9.8-2.7,19.5-7.7,27.9l-11,18.3
+			c-0.6,1-0.6,2.2,0,3.2c0.6,1,1.6,1.6,2.8,1.6h121.3c1.1,0,2.2-0.6,2.8-1.6C215.1,202,215,200.8,214.4,199.8z"/>
 	</g>
 </g>
 <g>
 	<g>
-		<path class="st1notif" d="M130,215.1c3.9,8.2,12.3,14,22,14c9.7,0,18.1-5.7,22-14H130z"/>
+		<path class="st1notif" d="M130.9,211c3.6,7.5,11.2,12.8,20.1,12.8s16.5-5.2,20.1-12.8H130.9z"/>
 	</g>
 </g>
 </svg>
@@ -143,25 +210,45 @@
 </g>
 <g>
 	<g>
-		<path class="st1a" d="M84.2,125.5c2.1,1.5,8.3,5.8,18.6,13c10.4,7.2,18.3,12.7,23.8,16.6c0.6,0.4,1.9,1.3,3.9,2.8
-			c2,1.4,3.6,2.6,4.9,3.5c1.3,0.9,2.9,1.9,4.7,3c1.8,1.1,3.6,1.9,5.2,2.5c1.6,0.5,3.2,0.8,4.5,0.8h0.1h0.1c1.4,0,2.9-0.3,4.5-0.8
-			c1.6-0.5,3.4-1.4,5.2-2.5c1.8-1.1,3.4-2.1,4.7-3c1.3-0.9,2.9-2,4.9-3.5c2-1.4,3.3-2.3,3.9-2.8c5.6-3.9,19.8-13.7,42.5-29.5
-			c4.4-3.1,8.1-6.8,11.1-11.2c3-4.4,4.5-8.9,4.5-13.7c0-4-1.4-7.4-4.3-10.3c-2.9-2.8-6.3-4.3-10.2-4.3H83.1c-4.7,0-8.3,1.6-10.8,4.7
-			c-2.5,3.2-3.8,7.1-3.8,11.8c0,3.8,1.7,8,5,12.4C76.9,119.4,80.4,122.9,84.2,125.5z"/>
-		<path class="st1a" d="M222.4,135.2c-19.9,13.5-35,23.9-45.3,31.4c-3.5,2.5-6.3,4.5-8.4,6c-2.2,1.4-5,2.9-8.6,4.4
-			c-3.6,1.5-6.9,2.2-10,2.2H150h-0.1c-3.1,0-6.4-0.7-10-2.2c-3.6-1.5-6.4-2.9-8.6-4.4c-2.2-1.4-5-3.4-8.4-6
-			c-8.2-6-23.2-16.5-45.2-31.4c-3.5-2.3-6.5-4.9-9.2-7.9v72.2c0,4,1.4,7.4,4.3,10.3c2.8,2.8,6.3,4.3,10.3,4.3h133.8
-			c4,0,7.4-1.4,10.3-4.3c2.8-2.8,4.3-6.3,4.3-10.3v-72.2C228.8,130.2,225.8,132.8,222.4,135.2z"/>
+		<path class="st1a" d="M91.2,124.9c2,1.4,7.8,5.4,17.4,12.1c9.7,6.7,17.1,11.9,22.2,15.5c0.6,0.4,1.8,1.2,3.6,2.6
+			c1.9,1.3,3.4,2.4,4.6,3.3c1.2,0.8,2.7,1.8,4.4,2.8c1.7,1,3.4,1.8,4.9,2.3c1.5,0.5,3,0.7,4.2,0.7h0.1h0.1c1.3,0,2.7-0.3,4.2-0.7
+			c1.5-0.5,3.2-1.3,4.9-2.3s3.2-2,4.4-2.8s2.7-1.9,4.6-3.3c1.9-1.3,3.1-2.1,3.6-2.6c5.2-3.6,18.5-12.8,39.7-27.6
+			c4.1-2.9,7.6-6.4,10.4-10.5c2.8-4.1,4.2-8.3,4.2-12.8c0-3.7-1.3-6.9-4-9.6c-2.7-2.6-5.9-4-9.5-4H90.1c-4.4,0-7.8,1.5-10.1,4.4
+			c-2.3,3-3.5,6.6-3.5,11c0,3.5,1.6,7.5,4.7,11.6C84.3,119.2,87.6,122.5,91.2,124.9z"/>
+		<path class="st1a" d="M220.2,134c-18.6,12.6-32.7,22.3-42.3,29.3c-3.3,2.3-5.9,4.2-7.8,5.6c-2.1,1.3-4.7,2.7-8,4.1
+			c-3.4,1.4-6.4,2.1-9.3,2.1h-0.1h-0.1c-2.9,0-6-0.7-9.3-2.1s-6-2.7-8-4.1c-2.1-1.3-4.7-3.2-7.8-5.6c-7.7-5.6-21.7-15.4-42.2-29.3
+			c-3.3-2.1-6.1-4.6-8.6-7.4V194c0,3.7,1.3,6.9,4,9.6c2.6,2.6,5.9,4,9.6,4h125c3.7,0,6.9-1.3,9.6-4c2.6-2.6,4-5.9,4-9.6v-67.4
+			C226.2,129.3,223.4,131.7,220.2,134z"/>
 	</g>
 </g>
 </svg>
 
 		    </div>
-		  </div>
+		  </div></div></div></div>
 		</div>
 	</nav>
 </template>
 
 <style lang="scss" scoped>
-	
+.hidden-svg {
+	@media screen and (max-width: $desktop) {
+		position: absolute;
+		margin-top: -1000px;
+	}
+}
+.right-nav-ct {
+	width: 102px; height: 43px;
+}
+.nav-mob {
+	bottom: 0;
+	position: fixed;
+	width: 100%;
+	height: 58px;
+	background-color: $bt;
+	z-index: 1;
+
+	@media screen and (min-width: $desktop) {
+		bottom: -100px;
+	}
+}
 </style>

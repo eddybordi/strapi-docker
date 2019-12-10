@@ -1,6 +1,6 @@
 <template>
 	<div class="text-base mt-4">
-		<textarea class="rounded p-2 text-lg font-medium" rows="5" placeholder="Ecrire ici..."></textarea>
+		<textarea class="rounded p-2 text-lg font-medium" placeholder="Ecrire ici..."></textarea>
 		<input type="text" class="rounded p-2 text-lg font-medium mt-1" placeholder="Ajouter un ou plusieurs tags">
 		<div class="flex items-center justify-end mt-3">
 			<span class="options mr-4 cursor-pointer text-lg">Plus d'options</span>
@@ -24,6 +24,7 @@
 <style lang="scss" scoped>
 	textarea {
 		width: 100%;
+		height: 100px;
 		background-color: $greywhite;
 	}
 	input {

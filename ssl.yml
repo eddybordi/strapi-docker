@@ -1,0 +1,27 @@
+version: "2"
+services:
+  lets-nginx:
+    image: nginx
+    volumes:
+      - ./nginx/letsencrypt.conf:/etc/nginx/nginx.conf
+      - ./letsencrypt-www:/usr/share/nginx/html
+    container_name: lets-nginx
+    ports:
+      - 80:80
+  # lets-cerbot:
+  #   container_name: lets-cerbot
+  #   image: florianq/certbot-cron
+  #   volumes:
+  #     - /var/run/docker.sock:/var/run/docker.sock
+  #     - ./letsencrypt/conf:/etc/letsencrypt
+  #     - ./letsencrypt/html:/tmp/letsencrypt
+  #   links:
+  #     - lets-nginx
+  #   environment:
+  #     - DOMAINS=jemennuie.fr www.jemennuie.fr api.jemennuie.fr dev.jemennuie.fr stopennui.fr www.stopennui.fr stopennui.com www.stopennui.com jemefaischier.fr www.jemefaischier.fr
+  #     - EMAIL=eddy@bordi.fr
+  #     - WEBROOT_PATH=/tmp/letsencrypt
+  #     - EXP_LIMIT=30
+  #     - CHECK_FREQ=30
+  #     - CHICKENEGG=
+  #     - STAGING=
