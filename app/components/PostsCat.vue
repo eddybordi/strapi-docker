@@ -16,98 +16,98 @@
 </svg>
 		</div>
 		<ul class="post-cat flex flex-wrap font-medium">
-		  <li class="mr-3">
+		  <li class="mr-3 first">
 		    <a class="inline-block border--cleartext rounded py-1 px-3 bg-cleartext text-white" href="#">Tout</a>
 		  </li>
 		  <!-- <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Dernières réponses</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Dernières réponses</a>
 		  </li> -->
 		  <!-- <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Suivis</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Suivis</a>
 		  </li> -->
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Actu</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Actu</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Débats</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Débats</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Musiques</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Musiques</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Ciné</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Ciné</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Séries</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Séries</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Jeux</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Jeux</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Actu</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Actu</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Débats</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Débats</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Musiques</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Musiques</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Ciné</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Ciné</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Séries</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Séries</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Jeux</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Jeux</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Jeux</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Jeux</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Actu</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Actu</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Débats</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Débats</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Musiques</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Musiques</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Ciné</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Ciné</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Séries</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Séries</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Jeux</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Jeux</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Jeux</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Jeux</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Actu</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Actu</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Débats</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Débats</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Musiques</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Musiques</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Musiques</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Musiques</a>
 		  </li>
 		   <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Débats</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Débats</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Musiques</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Musiques</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Ciné</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Ciné</a>
 		  </li>
 		  <li class="mr-3">
-		    <a class="inline-block rounded hover:border-cleartext text-cleartext hover:bg-cleartext hover:text-white py-1 px-3" href="#">Séries</a>
+		    <a class="inline-block rounded lg:hover:border-cleartext text-cleartext lg:hover:bg-cleartext lg:hover:text-white py-1 px-3" href="#">Séries</a>
 		  </li>
 		</ul>
 	</div>
@@ -140,11 +140,13 @@ export default {
   height: 34px;
   right: 0;
   background: linear-gradient(90deg, transparent, $greywhite);
+  margin-top: -1px;
 }
 
 ul {
 	@media screen and (max-width: $desktop) {
-		width: 2500px;
+		// width: 2500px;
+		width: 1256px;
 
 		display: -webkit-box;
 		-webkit-line-clamp: 1;
@@ -152,11 +154,15 @@ ul {
 		overflow: hidden;
 		text-overflow: ellipsis;
 		color: $white;
+
+		.first {
+			margin-left: 0.75rem;
+		}
 	}
 
 	@media screen and (min-width: $desktop) {
 		display: -webkit-box;
-		-webkit-line-clamp: 2;
+		-webkit-line-clamp: 1;
 		-webkit-box-orient: vertical;
 		overflow: hidden;
 		text-overflow: ellipsis;
