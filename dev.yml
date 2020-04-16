@@ -2,34 +2,25 @@ version: '3'
 
 services:
   api:
-    container_name: jme-api
-    image: jme_api
-    working_dir: /usr/src/api/strapi-app
-    command: strapi dev
-    # build: .
+    container_name: ea-api
+    image: strapi/strapi
     environment:
-      - APP_NAME=strapi-app
       - DATABASE_CLIENT=mongo
       - DATABASE_HOST=db
       - DATABASE_PORT=27017
       - DATABASE_NAME=strapi
       - DATABASE_USERNAME=
       - DATABASE_PASSWORD=
-      - DATABASE_SSL=false
       - DATABASE_AUTHENTICATION_DATABASE=strapi
-      - HOST=localhost
-      - BASE_URL=http://localhost:8080
-      # - NODE_ENV=production
     expose:
       - 1337
     volumes:
-      - ./api:/usr/src/api/strapi-app
+      - ./api:/srv/app
     depends_on:
       - db
-    restart: always
     
   db:
-    container_name: jme-db
+    container_name: ea-db
     image: mongo
     environment:
       - MONGO_INITDB_DATABASE=strapi
@@ -41,7 +32,7 @@ services:
     restart: always
 
   nginx:
-    container_name: jme-nginx
+    container_name: ea-nginx
     image: nginx
     # restart: always
     volumes:
@@ -50,7 +41,7 @@ services:
       - ./nginx/default.dev.conf:/etc/nginx/nginx.conf
       - ./nginx/.htpasswd:/etc/nginx/.htpasswd
       # - ./letsencrypt:/etc/letsencrypt
-    container_name: jme-nginx
+    container_name: ea-nginx
     links:
       - api
     depends_on:
